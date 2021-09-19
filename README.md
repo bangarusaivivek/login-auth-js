@@ -1,0 +1,1 @@
+# Authentication with plain JS
